@@ -23,10 +23,8 @@ repository               : "walidhabibilol/walidhabibilol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-<<<<<<< HEAD
+
   avatar           : "profile.png"
-=======
-  avatar           : "/images/profile.png"
 >>>>>>> 2e064614ac2aa0963736137cbd21e9765a424359
   name             : "Walid Habibi"
   pronouns         : # example: "she/her"  
