@@ -23,7 +23,11 @@ repository               : "walidhabibilol/walidhabibilol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+<<<<<<< HEAD
   avatar           : "profile.png"
+=======
+  avatar           : "IMG_0979.jpeg"
+>>>>>>> 2e064614ac2aa0963736137cbd21e9765a424359
   name             : "Walid Habibi"
   pronouns         : # example: "she/her"  
   bio              : "Controls, Robotics, & Autonomy major at Virginia Tech interested in research opportunities"
