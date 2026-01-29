@@ -26,7 +26,7 @@ author:
 <<<<<<< HEAD
   avatar           : "profile.png"
 =======
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
 >>>>>>> 2e064614ac2aa0963736137cbd21e9765a424359
   name             : "Walid Habibi"
   pronouns         : # example: "she/her"  
