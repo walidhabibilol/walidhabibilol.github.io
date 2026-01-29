@@ -11,8 +11,6 @@ redirect_from:
 
 You can view or download my resume below.
 
-[Download my resume (PDF)](/files/Walid_Habibi_Resume.pdf)
-
 ---
 
 <iframe src="/files/WHResume.pdf" width="100%" height="1000px"></iframe>
