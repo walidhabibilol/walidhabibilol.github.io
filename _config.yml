@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hi, I'm Walid Habibi!"
+title                    : "Hi I'm Walid Habibi!"
 title_separator          : "-"
 name                     : &name "Walid Habibi"
 description              : &description "Computer Engineering Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,11 +23,8 @@ repository               : "walidhabibilol/walidhabibilol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-<<<<<<< HEAD
+
   avatar           : "profile.png"
-=======
-  avatar           : "IMG_0979.jpeg"
->>>>>>> 2e064614ac2aa0963736137cbd21e9765a424359
   name             : "Walid Habibi"
   pronouns         : # example: "she/her"  
   bio              : "Controls, Robotics, & Autonomy major at Virginia Tech interested in research opportunities"
@@ -39,13 +36,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -61,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
