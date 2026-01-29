@@ -2,9 +2,6 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Controls, Robotics, & Autonomy major junior at Virginia Tech with a hands-on interest in embedded systems, robotics, and software to hardware integration. I am particularly drawn to work that involves mainly hardware, where design, programming, and system design come together to create effective solutions.
